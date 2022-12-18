@@ -3,7 +3,8 @@
   createApp({
     data() {
       return {
-        message: 'Hello Vue!'
+        title: 'Micheal Jordan',
+        img: `./img/jordan.jpg`,
       }
     }
   }).mount('#app')
